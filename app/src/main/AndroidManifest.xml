@@ -17,14 +17,10 @@
         </activity>
 
 
-        <activity android:name=".ButterKnifeActivity">
-        </activity>
-        <activity android:name=".FindByActivity">
-        </activity>
-        <activity android:name=".DaggerActivity">
-        </activity>
-        <activity android:name=".DataBindingsActivity">
-        </activity>
+        <activity android:name=".ButterKnifeActivity"></activity>
+        <activity android:name=".FindByActivity"></activity>
+        <activity android:name=".DaggerActivity"></activity>
+        <activity android:name=".BindingsActivity"></activity>
     </application>
 
 </manifest>
